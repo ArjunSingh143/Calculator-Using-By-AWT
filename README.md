@@ -1,2 +1,2 @@
-# Calculator-Using-By-AWT
+# Calculator-Using-AWT
 just use it
